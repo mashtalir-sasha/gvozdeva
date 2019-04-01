@@ -101,7 +101,7 @@
 		<div class="container">
 			<div class="row">
 				<div class="col-md-3 col-sm-4 col-xs-6">
-					<p class="foot__addr">г. Вишневое,<br>ул. Молодежная, 24</p>
+					<p class="foot__addr">г. Вишневое,<br>ул. Молодежная, 17</p>
 				</div>
 				<div class="col-auto ml-auto mr-auto">
 					<a href="tel:380637366351" class="foot__phone">+38(063) 736 63 51</a>
